@@ -1,0 +1,249 @@
+.tabla-autoestimaI {
+ margin: 5px;
+ overflow: hidden;
+
+
+}
+
+.tabla-autoestimaI table {
+    width: 100%;
+    text-align: left;
+    background: white;
+    border-collapse: collapse;
+    font-family: 'Raleway', sans-serif;
+
+
+}
+
+.tabla-autoestimaI th,td {
+    border-right:  1px solid rgba(0, 0, 0, 0.45);
+    padding: 10px;
+    height: auto;
+}
+
+.tabla-autoestimaI th,td:nth-last-child(1) {
+    border: none;
+}
+
+.tabla-autoestimaI #uno {
+    background-color: #ddd;
+
+    -webkit-transition: all .2s ease;
+    -moz-transition: all .2s ease;
+    -ms-transition: all .2s ease;
+    -o-transition: all .2s ease;
+    transition: all .2s ease;
+}
+.tabla-autoestimaI #dos {
+    background-color: black;
+    color: white;
+
+    -webkit-transition: all .2s ease;
+    -moz-transition: all .2s ease;
+    -ms-transition: all .2s ease;
+    -o-transition: all .2s ease;
+    transition: all .2s ease;
+}
+
+.tabla-autoestimaI td {
+    height: 80px;
+}
+.tabla-autoestimaI thead {
+    background-color: #246355;
+    border-bottom: 5px solid #0f362d;
+    color: white;
+
+    height: 70px;
+    font-weight: lighter;
+    text-align: center;
+}
+
+.tabla-autoestimaI .titulo-tabla{
+    width: 20%;
+    max-width: 200px;
+    text-align: center;
+    font-size: 1.5em;
+    line-height: normal;
+}
+
+.tabla-autoestimaI .title {
+    font-size: 1.5em;
+}
+
+.tabla-autoestimaI .contenido {
+    width: 70%;
+    min-width: 200px;
+}
+
+.tabla-autoestimaI #uno:hover, .tabla-autoestimaI #dos:hover  {
+    background: rgb(214, 164, 12);
+    color: white;
+}
+
+/*============================================================================
+ EN ESTA PARTE VIENE LOS ESTILOS CSS DE LA ==> //  TABLA-AUTOESTIMAII //
+==============================================================================*/
+
+.tabla-autoestimaII {
+ margin-top: 25px;
+ overflow: hidden;
+}
+
+.tabla-autoestimaII table {
+    width: 100%;
+    text-align: left;
+    background: white;
+    border-collapse: collapse;
+    font-family: 'Raleway', sans-serif;
+
+
+}
+
+.tabla-autoestimaII th,td {
+    border-right:  1px solid rgba(0, 0, 0, 0.45);
+    padding: 10px;
+    height: auto;
+}
+
+.tabla-autoestimaII th,td:nth-last-child(1) {
+    border: none;
+}
+
+.tabla-autoestimaII #uno {
+    background-color: #ddd;
+
+    -webkit-transition: all .2s ease;
+    -moz-transition: all .2s ease;
+    -ms-transition: all .2s ease;
+    -o-transition: all .2s ease;
+    transition: all .2s ease;
+}
+.tabla-autoestimaII #dos {
+    background-color: black;
+    color: white;
+
+    -webkit-transition: all .2s ease;
+    -moz-transition: all .2s ease;
+    -ms-transition: all .2s ease;
+    -o-transition: all .2s ease;
+    transition: all .2s ease;
+}
+
+.tabla-autoestimaII td {
+    height: 80px;
+}
+.tabla-autoestimaII thead {
+    background-color: #246355;
+    border-bottom: 5px solid #0f362d;
+    color: white;
+
+    height: 70px;
+    font-weight: lighter;
+    text-align: center;
+}
+
+.tabla-autoestimaII .titulo-tabla{
+    width: 60%;
+    max-width: 200px;
+
+
+    line-height: normal;
+}
+
+
+
+.tabla-autoestimaII .contenido {
+    width: 30%;
+    min-width: 200px;
+}
+
+.tabla-autoestimaII #uno:hover, .tabla-autoestimaII #dos:hover  {
+    background: rgb(214, 164, 12);
+    color: white;
+}
+
+/*============================================================================
+ EN ESTA PARTE VIENE LOS ESTILOS CSS DE LA ==> //  TABLA-AUTOESTIMAIII //
+==============================================================================*/
+
+.tabla-autoestimaIII {
+ margin-top: 25px;
+ overflow: hidden;
+
+
+}
+
+.tabla-autoestimaIII table {
+    width: 100%;
+    text-align: left;
+    background: white;
+    border-collapse: collapse;
+    font-family: 'Raleway', sans-serif;
+
+
+}
+
+.tabla-autoestimaIII th,td {
+    border-right:  1px solid rgba(0, 0, 0, 0.45);
+    padding: 10px;
+    height: auto;
+}
+
+.tabla-autoestimaIII th,td:nth-last-child(1) {
+    border: none;
+}
+
+.tabla-autoestimaIII #uno {
+    background-color: #ddd;
+
+    -webkit-transition: all .2s ease;
+    -moz-transition: all .2s ease;
+    -ms-transition: all .2s ease;
+    -o-transition: all .2s ease;
+    transition: all .2s ease;
+}
+.tabla-autoestimaIII #dos {
+    background-color: black;
+    color: white;
+
+    -webkit-transition: all .2s ease;
+    -moz-transition: all .2s ease;
+    -ms-transition: all .2s ease;
+    -o-transition: all .2s ease;
+    transition: all .2s ease;
+}
+
+.tabla-autoestimaIII td {
+    height: 80px;
+}
+.tabla-autoestimaIII thead {
+    background-color: #246355;
+    border-bottom: 5px solid #0f362d;
+    color: white;
+
+    height: 70px;
+    font-weight: lighter;
+    text-align: center;
+}
+
+.tabla-autoestimaIII .titulo-tabla{
+    width: 20%;
+    max-width: 200px;
+    text-align: center;
+    font-size: 1.5em;
+    line-height: normal;
+}
+
+.tabla-autoestimaIII .title {
+    font-size: 1.5em;
+}
+
+.tabla-autoestimaIII .contenido {
+    width: 70%;
+    min-width: 200px;
+}
+
+.tabla-autoestimaIII #uno:hover, .tabla-autoestimaIII #dos:hover  {
+    background: rgb(214, 164, 12);
+    color: white;
+}
